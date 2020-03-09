@@ -1,0 +1,41 @@
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe.config
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.pdb
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csprojResolveAssemblyReference.cache
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.QualityControl.resources
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.Properties.Resources.resources
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.GenerateResource.Cache
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.exe
+c:\users\jacla\onedrive\documents\visual studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.pdb
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe.config
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.exe
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.pdb
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.pdb
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csprojResolveAssemblyReference.cache
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.QualityControl.resources
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.Properties.Resources.resources
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.GenerateResource.Cache
+C:\Users\Matt-Office\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.CoreCompileInputs.cache
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe.config
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.pdb
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\bin\Debug\Com.SharpZebra.dll
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csprojAssemblyReference.cache
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.QualityControl.resources
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.Properties.Resources.resources
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.GenerateResource.cache
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.CopyComplete
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.exe
+\\matt-office-pc\Documents\Visual Studio 2015\Projects\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.pdb
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe.config
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.exe
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\bin\Debug\QualityControlPick.pdb
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csprojAssemblyReference.cache
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.QualityControl.resources
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.Properties.Resources.resources
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.GenerateResource.cache
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.CoreCompileInputs.cache
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.csproj.CopyComplete
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.exe
+C:\working\New folder\Up Work\Chel's Clothes Closet\QualityControlPick\QualityControlPick\QualityControlPick\obj\Debug\QualityControlPick.pdb
